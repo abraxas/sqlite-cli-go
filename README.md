@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-cli-go">sqlite-cli-go</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-cli-go"><strong>https://abraxaslabs.tech/research/sqlite-cli-go</strong></a>
+</p>
+
 
 # sqlite-cli-go
 
